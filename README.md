@@ -62,3 +62,7 @@
     * パーセプトロン予測器や TAGE 予測器の詳細
     * 間接分岐予測器
     * 複数命令同時フェッチ時の予測の実装方法
+* [付録2:高性能CPUの研究・開発動向](./aco-shioya-appendix-processor.pptx?raw=true) （[PDF版](./aco-shioya-appendix-processor.pdf)）
+    * プログラムの複雑化とシングルスレッド性能の向上
+    * 「現代の」Out-of-order スーパスカラ・プロセッサの構造
+    * 最近の研究
