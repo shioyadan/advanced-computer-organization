@@ -20,15 +20,15 @@
     * (RISC-V についての続き
     * 論理回路の復習
     * 回路の遅延
-3. [回路の消費電力と命令パイプラインの基本](./aco-shioya-03.pptx?raw=true) （[PDF版](./aco-shioya-03.pdf)）
+3. [回路の消費電力](./aco-shioya-03.pptx?raw=true) （[PDF版](./aco-shioya-03.pdf)）
     * 回路の消費電力
+4. [命令パイプラインとハザード](./aco-shioya-04.pptx?raw=true) （[PDF版](./aco-shioya-04.pdf)）
     * 命令パイプライン
-4. [命令パイプラインの詳細](./aco-shioya-04.pptx?raw=true) （[PDF版](./aco-shioya-04.pdf)）
-    * パイプラインの詳細
     * 各種のハザードと解消方法
         * 構造ハザード
         * 非構造ハザード
-5. [命令パイプラインと性能，分岐予測](./aco-shioya-05.pptx?raw=true) （[PDF版](./aco-shioya-05.pdf)）
+5. [ハザードの続き，命令パイプラインと性能，分岐予測](./aco-shioya-05.pptx?raw=true) （[PDF版](./aco-shioya-05.pdf)）
+    * 非構造ハザード
     * 命令パイプラインと性能
     * 分岐予測の基本
 6. [分岐予測](./aco-shioya-06.pptx?raw=true) （[PDF版](./aco-shioya-06.pdf)）
