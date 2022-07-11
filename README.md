@@ -50,12 +50,13 @@
 10. [動的命令スケジューリングの続き，GPU の概要](./aco-shioya-10.pptx?raw=true) （[PDF版](./aco-shioya-10.pdf)）
     * 例外への対処，ロード/ストアのスケジューリング
     * GPU の概要
-11. [キャッシュ](./aco-shioya-11.pptx?raw=true) （[PDF版](./aco-shioya-11.pdf)）
+11. [GPU の概要](./aco-shioya-11.pptx?raw=true) （[PDF版](./aco-shioya-11.pdf)）
+12. [キャッシュ](./aco-shioya-12.pptx?raw=true) （[PDF版](./aco-shioya-12.pdf)）
     * 基本原理
     * 容量と性能の関係
     * 詳細な構造
     * 行列積での性能の変化の例
-12. [保護機構とアタック](./aco-shioya-12.pptx?raw=true) （[PDF版](./aco-shioya-12.pdf)）
+13. [保護機構とアタック](./aco-shioya-13.pptx?raw=true) （[PDF版](./aco-shioya-13.pdf)）
     * 保護機構
         * 仮想メモリ
         * 特権モード
