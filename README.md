@@ -78,8 +78,11 @@
 * [付録3:RISC-V Zicond 拡張について](./aco-shioya-appendix-riscv-zicond.pptx?raw=true) （[PDF版](./aco-shioya-appendix-riscv-zicond.pdf)）
     * 背景となる技術
     * なぜ Zicond 拡張の命令がよいのか
+* [付録4:浮動小数点演算器の高速化](./aco-shioya-appendix-fpu.pptx?raw=true) （[PDF版](./aco-shioya-appendix-fpu.pdf)）
+    * 背景となる技術
+    * 高速な FMA 演算器を作るための工夫
 * 謝辞
     * 付録の一部を作るのを手伝ってくれた以下のみなさまに感謝います．
-        * 情報理工学系研究科 電子情報学専攻 小泉くん
-        * 情報理工学系研究科 創造情報学専攻 松井くん
+        * 名古屋工業大学 大学院 工学研究科 工学専攻 小泉先生
+        * 東京大学 大学院 情報理工学系研究科 創造情報学専攻 松井くん
 
