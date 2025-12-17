@@ -81,8 +81,11 @@
 * [付録4:浮動小数点演算器の高速化](./aco-shioya-appendix-fpu.pptx?raw=true) （[PDF版](./aco-shioya-appendix-fpu.pdf)）
     * 背景となる技術
     * 高速な FMA 演算器を作るための工夫
+* [付録5:CBP2025への取り組み](./aco-shioya-appendix-cbp2025.pptx?raw=true) （[PDF版](./aco-shioya-appendix-cbp2025.pdf)）
+    * 現代の CPU と分岐予測器
+    * CBP 参加の際の取り組み
 * 謝辞
-    * 付録の一部を作るのを手伝ってくれた以下のみなさまに感謝います．
+    * 付録の一部を作るのを手伝ってくれた以下のみなさまに感謝いたします．
         * 名古屋工業大学 大学院 工学研究科 工学専攻 小泉先生
         * 東京大学 大学院 情報理工学系研究科 創造情報学専攻 松井くん
 
