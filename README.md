@@ -67,25 +67,38 @@
 
 ## 付録
 
-* [付録1:分岐予測の詳細](./aco-shioya-appendix-bpred.pptx?raw=true) （[PDF版](./aco-shioya-appendix-bpred.pdf)）
-    * パーセプトロン予測器や TAGE 予測器の詳細
-    * 間接分岐予測器
-    * 複数命令同時フェッチ時の予測の実装方法
-* [付録2:高性能CPUの研究・開発動向](./aco-shioya-appendix-processor.pptx?raw=true) （[PDF版](./aco-shioya-appendix-processor.pdf)）
+他の講義や講演で使用した資料で，関連するものを以下に含めています．
+
+### CPU
+* [高性能CPUの研究・開発動向（2023）](./aco-shioya-appendix-processor.pptx?raw=true) （[PDF版](./aco-shioya-appendix-processor.pdf)）
     * プログラムの複雑化とシングルスレッド性能の向上
     * 「現代の」Out-of-order スーパスカラ・プロセッサの構造
     * 最近の研究
-* [付録3:RISC-V Zicond 拡張について](./aco-shioya-appendix-riscv-zicond.pptx?raw=true) （[PDF版](./aco-shioya-appendix-riscv-zicond.pdf)）
+* [RISC-V Zicond 拡張について（2023）](./aco-shioya-appendix-riscv-zicond.pptx?raw=true) （[PDF版](./aco-shioya-appendix-riscv-zicond.pdf)）
     * 背景となる技術
     * なぜ Zicond 拡張の命令がよいのか
-* [付録4:浮動小数点演算器の高速化](./aco-shioya-appendix-fpu.pptx?raw=true) （[PDF版](./aco-shioya-appendix-fpu.pdf)）
-    * 背景となる技術
-    * 高速な FMA 演算器を作るための工夫
-* [付録5:CBP2025への取り組み](./aco-shioya-appendix-cbp2025.pptx?raw=true) （[PDF版](./aco-shioya-appendix-cbp2025.pdf)）
+
+### 分岐予測
+* [分岐予測の詳細（2022）](./aco-shioya-appendix-bpred.pptx?raw=true) （[PDF版](./aco-shioya-appendix-bpred.pdf)）
+    * パーセプトロン予測器や TAGE 予測器の概要
+    * 間接分岐予測器
+    * 複数命令同時フェッチ時の予測の実装方法
+* [CBP2025への取り組み（2025）](./aco-shioya-appendix-cbp2025.pptx?raw=true) （[PDF版](./aco-shioya-appendix-cbp2025.pdf)）
     * 現代の CPU と分岐予測器
     * CBP 参加の際の取り組み
-* 謝辞
-    * 付録の一部を作るのを手伝ってくれた以下のみなさまに感謝いたします．
-        * 名古屋工業大学 大学院 工学研究科 工学専攻 小泉先生
-        * 東京大学 大学院 情報理工学系研究科 創造情報学専攻 松井くん
+
+### GPU
+* [電力効率 と GPU（2025）](./aco-shioya-circuit-and-gpu.pptx?raw=true) （[PDF版](./aco-shioya-circuit-and-gpu.pdf)）
+    * 半導体における消費電力や効率の考え方
+    * (GP)GPU のアーキテクチャの意味
+
+### 浮動小数点演算器
+* [浮動小数点演算器の高速化（2025）](./aco-shioya-appendix-fpu.pptx?raw=true) （[PDF版](./aco-shioya-appendix-fpu.pdf)）
+    * 背景となる技術
+    * 高速な FMA 演算器を作るための工夫
+
+## 謝辞
+講義資料の一部を作るのを手伝ってくれた以下のみなさまに感謝いたします．
+* 名古屋工業大学 大学院 工学研究科 工学専攻 小泉先生
+* 東京大学 大学院 情報理工学系研究科 創造情報学専攻 松井くん
 
