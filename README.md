@@ -8,7 +8,10 @@
 
 ## 講義資料
 
+### 2026年度版
 0. [イントロ](./aco-shioya-00.pptx?raw=true) （[PDF版](./aco-shioya-00.pdf)）
+
+### 2024年度版
 1. [コンピュータの基本](./aco-shioya-01.pptx?raw=true) （[PDF版](./aco-shioya-01.pdf)）
     * コンピュータの基本
         * 命令やプログラム，機械語とはなにか
