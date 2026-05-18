@@ -17,13 +17,14 @@
     * C 言語で書かれたプログラムの実行を考える
         * C 言語と機械語の対応
     * 命令セットの例：RISC-V
+2. [回路と遅延，消費電力](./aco-shioya-02.pptx?raw=true) （[PDF版](./aco-shioya-02.pdf)）
+    * 論理回路の復習
+    * 回路の消費電力
+    * 回路の遅延
+3. [回路の消費電力と命令パイプライン](./aco-shioya-03.pptx?raw=true) （[PDF版](./aco-shioya-03.pdf)）
+    * 命令パイプライン
 
 ### 2024年度版
-2. [回路と遅延](./aco-shioya-02.pptx?raw=true) （[PDF版](./aco-shioya-02.pdf)）
-    * 論理回路の復習
-    * 回路の遅延
-3. [回路の消費電力](./aco-shioya-03.pptx?raw=true) （[PDF版](./aco-shioya-03.pdf)）
-    * 回路の消費電力
 4. [命令パイプラインとハザード](./aco-shioya-04.pptx?raw=true) （[PDF版](./aco-shioya-04.pdf)）
     * 命令パイプライン
     * 各種のハザードと解消方法
