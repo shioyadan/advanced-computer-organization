@@ -23,8 +23,6 @@
     * 回路の遅延
 3. [回路の消費電力と命令パイプライン](./aco-shioya-03.pptx?raw=true) （[PDF版](./aco-shioya-03.pdf)）
     * 命令パイプライン
-
-### 2024年度版
 4. [命令パイプラインとハザード](./aco-shioya-04.pptx?raw=true) （[PDF版](./aco-shioya-04.pdf)）
     * 命令パイプライン
     * 各種のハザードと解消方法
@@ -34,6 +32,8 @@
     * 非構造ハザード
     * 命令パイプラインと性能
     * 分岐予測の基本
+
+### 2024年度版
 6. [分岐予測](./aco-shioya-06.pptx?raw=true) （[PDF版](./aco-shioya-06.pdf)）
     * 各種分岐予測器の構成について
 7. [分岐予測とメモリについて](./aco-shioya-07.pptx?raw=true) （[PDF版](./aco-shioya-07.pdf)）
