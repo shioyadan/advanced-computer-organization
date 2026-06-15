@@ -32,14 +32,13 @@
     * 非構造ハザード
     * 命令パイプラインと性能
     * 分岐予測の基本
-
-### 2024年度版
 6. [分岐予測](./aco-shioya-06.pptx?raw=true) （[PDF版](./aco-shioya-06.pdf)）
-    * 各種分岐予測器の構成について
-7. [分岐予測とメモリについて](./aco-shioya-07.pptx?raw=true) （[PDF版](./aco-shioya-07.pdf)）
     * 高度な分岐予測器
         * パーセプトロン予測器と TAGE 予測器
     * 間接分岐予測
+
+### 2024年度版
+7. [分岐予測とメモリについて](./aco-shioya-07.pptx?raw=true) （[PDF版](./aco-shioya-07.pdf)）
     * メモリの基本
     * SRAM や DRAM の構造
 8. [命令の並列実行](./aco-shioya-08.pptx?raw=true) （[PDF版](./aco-shioya-08.pdf)）
