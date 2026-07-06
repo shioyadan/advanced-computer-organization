@@ -36,15 +36,15 @@
     * 高度な分岐予測器
         * パーセプトロン予測器と TAGE 予測器
     * 間接分岐予測
-
-### 2024年度版
-7. [分岐予測とメモリについて](./aco-shioya-07.pptx?raw=true) （[PDF版](./aco-shioya-07.pdf)）
+7. [メモリについて](./aco-shioya-07.pptx?raw=true) （[PDF版](./aco-shioya-07.pdf)）
     * メモリの基本
     * SRAM や DRAM の構造
 8. [命令の並列実行](./aco-shioya-08.pptx?raw=true) （[PDF版](./aco-shioya-08.pdf)）
     * 命令の並列実行
     * データ依存
     * 静的命令スケジューリングと VLIW
+
+### 2024年度版
 9. [動的命令スケジューリング](./aco-shioya-09.pptx?raw=true) （[PDF版](./aco-shioya-09.pdf)）
     * in-order 発行/in-order 完了
     * in-order 発行/out-of-order 完了
