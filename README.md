@@ -43,12 +43,12 @@
     * 命令の並列実行
     * データ依存
     * 静的命令スケジューリングと VLIW
-
-### 2024年度版
 9. [動的命令スケジューリング](./aco-shioya-09.pptx?raw=true) （[PDF版](./aco-shioya-09.pdf)）
     * in-order 発行/in-order 完了
     * in-order 発行/out-of-order 完了
     * out-of-order 発行/out-of-order 完了
+
+### 2024年度版
 10. [動的命令スケジューリングの続き，GPU の概要](./aco-shioya-10.pptx?raw=true) （[PDF版](./aco-shioya-10.pdf)）
     * 例外への対処，ロード/ストアのスケジューリング
     * GPU の概要
