@@ -57,10 +57,13 @@
         * バッファ・オーバーフロー
         * Return Oriented Programming
         * マイクロアーキテクチャ面の脆弱性
+* [GPU](./aco-shioya-12.pptx?raw=true) （[PDF版](./aco-shioya-12.pdf)）
+    * エネルギー効率の定義
+    * GPU の基本的な構造とプログラミングモデル
+    * アクセラレータについて
 
 
 ### 2024年度版
-* [GPU の概要](./aco-shioya-12.pptx?raw=true) （[PDF版](./aco-shioya-12.pdf)）
 * [キャッシュ](./aco-shioya-2024-11.pptx?raw=true) （[PDF版](./aco-shioya-2024-11.pdf)）
     * 基本原理
     * 容量と性能の関係
